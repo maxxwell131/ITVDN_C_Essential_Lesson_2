@@ -1,0 +1,14 @@
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/bin/Debug/ITVDN C Essential Lesson 2.exe.config
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/bin/Debug/ITVDN C Essential Lesson 2.exe
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/bin/Debug/ITVDN C Essential Lesson 2.pdb
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.csprojResolveAssemblyReference.cache
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.csproj.CoreCompileInputs.cache
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.exe
+c:/users/user/documents/visual studio 2017/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.pdb
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/bin/Debug/ITVDN C Essential Lesson 2.exe.config
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/bin/Debug/ITVDN C Essential Lesson 2.exe
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/bin/Debug/ITVDN C Essential Lesson 2.pdb
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.csprojResolveAssemblyReference.cache
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.csproj.CoreCompileInputs.cache
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.exe
+/Users/olegcudnovskij/Projects/ITVDN C Essential Lesson 2/ITVDN C Essential Lesson 2/obj/Debug/ITVDN C Essential Lesson 2.pdb
