@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{84342B0A-5552-482F-8DD3-4532C3C39EE7}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ITVDN C Essential Lesson 2/Program.cs">
     <Files>
-      <File FileName="ITVDN C Essential Lesson 2/Program.cs" Line="20" Column="13" />
-      <File FileName="ITVDN C Essential Lesson 2/User.cs" Line="97" Column="42" />
+      <File FileName="ITVDN C Essential Lesson 2/Program.cs" Line="19" Column="13" />
+      <File FileName="ITVDN C Essential Lesson 2/User.cs" Line="16" Column="14" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

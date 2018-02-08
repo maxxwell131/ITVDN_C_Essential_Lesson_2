@@ -14,8 +14,10 @@ namespace ITVDN_C_Essential_Lesson_2
             Console.WriteLine(user);
 
             User user2 = new User();
-            //user2;
             user2.Login = "user2";
+            user2.Name = "";
+            user2.LastName = "Stepanov";
+            user2.Age = 102;
             Console.WriteLine(user2);
 
             Console.ReadKey();

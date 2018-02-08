@@ -100,7 +100,7 @@ namespace ITVDN_C_Essential_Lesson_2
                 }
                 else
                 {
-                    Console.WriteLine("Login is empty !!!");
+                    Console.WriteLine(" age is out of range !!!");
 
                 }
             }
@@ -109,7 +109,7 @@ namespace ITVDN_C_Essential_Lesson_2
 
         public override string ToString()
         {
-            string result = "Login: " + login + " Name: " + name + " age: " + age + " Date= " + date.ToLongDateString() + " &Time= " + date.ToLongTimeString();
+            string result = "Login: " + login + " Name: " + name + " Lastname: " + lastName + " age: " + age + " Date= " + date.ToLongDateString() + " &Time= " + date.ToLongTimeString();
             return result;
         }
     }
